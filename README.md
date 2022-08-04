@@ -1,5 +1,7 @@
 # Проект api_yamdb
 
+https://github.com/dmorozov-box/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+
 ## Описание
 
 YaMDb собирает отзывы (Review) пользователей на произведения (Title).

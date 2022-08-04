@@ -21,7 +21,7 @@ jobs:
 
     - name: Test with flake8 and django tests
       run: |
-        # Включить потом 2
+        # Включить потом
         # python -m flake8
         # pytest
 

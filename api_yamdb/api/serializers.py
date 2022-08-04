@@ -5,8 +5,8 @@ from reviews.models import User, Category, Genre, Title, Review, Comment
 
 
 class RegistrationSerializer(serializers.ModelSerializer):
-    """Проверить, что при регистрации пользователя, логин и почта должны уникальны,
-    при этом юзернейм :me: запрещен!
+    """Проверить, что при регистрации пользователя, логин и почта должны,
+    быть уникальны при этом юзернейм :me: запрещен!
     Взять из модели User только 2 поля: username + email.
     """
 

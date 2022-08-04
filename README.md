@@ -1,6 +1,6 @@
 # Проект api_yamdb
 
-https://github.com/dmorozov-box/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![example branch parameter](https://github.com/dmorozov-box/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ## Описание
 

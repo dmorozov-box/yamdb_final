@@ -1,6 +1,9 @@
 # Проект api_yamdb
 
-![example branch parameter](https://github.com/dmorozov-box/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+Это исходный код сервиса: http://51.250.80.49/api/v1/
+Документация доступна по ссылке http://51.250.80.49/redoc/
+
+![example branch parameter](https://github.com/dmorozov-box/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 
 ## Описание
 
@@ -42,11 +45,7 @@ docker-compose exec web python manage.py collectstatic --no-input
 ```
 docker-compose exec web python manage.py loaddata fixtures.json
 ```
-
-Посмотреть документацию проекта можно по ссылке http://localhost/redoc/
-
 Для остановки контейнеров воспользуйтесь командой
 ```
 docker-compose down -v
 ```
-1

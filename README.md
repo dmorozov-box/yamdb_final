@@ -1,10 +1,10 @@
 # Проект api_yamdb
 
+![example branch parameter](https://github.com/dmorozov-box/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
+
 Это исходный код сервиса: http://51.250.80.49/api/v1/
 
 Документация доступна по ссылке http://51.250.80.49/redoc/
-
-![example branch parameter](https://github.com/dmorozov-box/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?event=push)
 
 ## Описание
 
